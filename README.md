@@ -1,4 +1,19 @@
-# favconcept
+# Functionality-app
+
+----Add to cart
+----add to favorites
+----search products
+----json parsing
+----dio
+----increment/decrement 
+----snackbar
+----delete product
+----local storage cart items &favorites
+----hero animation
+----state management
+----toggle favorites
+----without stateful widget
+
 
 A new Flutter project.
 
